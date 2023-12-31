@@ -3,7 +3,7 @@ Tools used to make my [RON materials](https://github.com/RareKiwi/RONmaterials)
 That repo of materials requires you to import textures using this tool. (+ ~50GB project size)
 
 ## Umodel texture export instructions
-0. TBD (~130 preferably SSD space required)
+0. TBD (~130GB preferably SSD space required temporarily)
  
 ## Widget usage for importing Textures:  
 1. Download this repo as a .zip  
