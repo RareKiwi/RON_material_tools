@@ -1,4 +1,4 @@
-# RoN Material Tools Editor Utility Widget
+# Ready or Not Material Tools Editor Utility Widget
 ![](/readme_images/MaterialTools.jpg)  
 Tools used to make my [RON materials](https://github.com/RareKiwi/RONmaterials)  
 That repo of materials requires you to import textures using this tool. (+ ~50GB project size)
