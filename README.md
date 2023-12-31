@@ -11,5 +11,5 @@
 3. Either:
     * a) Right-Click > Run the EUW_MaterialTools editor widget within UE4 and set the `TGA content path:` to your specific `/game` umodel export directory with the correct forward slashes
 	* b) Edit EUW_MaterialTools and change the `Text` value of `EditableTextBox_tgaPath` permanently to your specific `/game` umodel export directory with the correct forward slashes, then compile and save the widget and Right-Click > Run it
-> ~[](/readme_images/uhh0zrghs1.jpg)
+> [](/readme_images/uhh0zrghs1.jpg)
 4. 
