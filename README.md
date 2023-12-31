@@ -1,7 +1,9 @@
 # RoN Material Tools Editor Utility Widget
+Tools used to make my [RON materials](https://github.com/RareKiwi/RONmaterials)  
+That repo of materials requires you to import textures using this tool. (+ ~50GB project size)
 
 ## Umodel texture export instructions
-0. TBD
+0. TBD (~130 preferably SSD space required)
  
 ## Widget usage for importing Textures:  
 1. Download this repo as a .zip  
