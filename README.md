@@ -4,7 +4,15 @@ Tools used to make my [RON materials](https://github.com/RareKiwi/RONmaterials)
 That repo of materials requires you to import textures using this tool. (+ ~50GB project size)
 
 ## Umodel texture export instructions
-0. TBD (~130GB preferably SSD space required temporarily)
+(~130GB preferably SSD space required temporarily)
+1. Grab the latest version of the umodel [extract fix](https://www.nexusmods.com/readyornot/mods/666?tab=files&file_id=10974) for RON, and place it with your game pak files. This will prevent umodel crashing during export by replacing certain uassests with empty ones. Remove the pak after you are done to prevent game issues.
+2. Open umodel_64 and set the correct settings. You can set the view/export types to texture only. You should untick lightmaps.
+3. Set your `Tools > Options: Export location` to an SSD location prefereably with 130GB+ of free space. Not using an SSD can make this and future imports steps take many hours. Enable "Don't overwrite..." in case your umodel crashes.
+4. Use `Tools > Scan Content` then switch to `Flat View`
+5. Sort by `"Package Name"` then `"Tex"` so Tex:1 is sorted on top. Add .uasset to `"Filter:"` to hide .umaps etc
+6. Find the first texture to export. You can skip engine/plugin directories, so start from `/Game/...`
+7. Scroll down and shift-click to select the last `Tex = 1` in `/Game/...` and everything in between.
+8. Right-click and export
  
 ## Widget usage for importing Textures:  
 1. Download this repo as a .zip  
