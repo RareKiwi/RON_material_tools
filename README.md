@@ -15,6 +15,9 @@ That repo of materials requires you to import textures using this tool. (+ ~50GB
 8. Right-click and export
  
 ## Widget usage for importing Textures:  
+> This tool by default filters (excludes) character, item textures and a few other directories from importing as it is map making focused.  
+> RONmaterials was initiated without those textures, so any materials or instances will be missing those reference links.  
+  
 1. Download this repo as a .zip  
 > Code - Download Zip  
 2. Copy the folders `Content` and `Saved` to your project `...\ReadyOrNotYOURPROJECT\` so that it merges with the existing folders.  
